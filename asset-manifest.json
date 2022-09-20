@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bakerDev/static/css/main.24bd696e.chunk.css",
-    "main.js": "/bakerDev/static/js/main.5ce8a15f.chunk.js",
-    "main.js.map": "/bakerDev/static/js/main.5ce8a15f.chunk.js.map",
+    "main.js": "/bakerDev/static/js/main.dc757b29.chunk.js",
+    "main.js.map": "/bakerDev/static/js/main.dc757b29.chunk.js.map",
     "runtime-main.js": "/bakerDev/static/js/runtime-main.690ddde7.js",
     "runtime-main.js.map": "/bakerDev/static/js/runtime-main.690ddde7.js.map",
     "static/css/2.c4e73993.chunk.css": "/bakerDev/static/css/2.c4e73993.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.c4e73993.chunk.css",
     "static/js/2.1153e18e.chunk.js",
     "static/css/main.24bd696e.chunk.css",
-    "static/js/main.5ce8a15f.chunk.js"
+    "static/js/main.dc757b29.chunk.js"
   ]
 }
