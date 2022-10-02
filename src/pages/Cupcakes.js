@@ -2,7 +2,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
-import example1 from "./merryGnomeClose.jpg";
+import example1 from "./cupcake1.jpeg";
 import example2 from "./merryGnomeCookie.jpg";
 import example3 from "./merryGnomeFish.jpg";
 import example4 from "./merryOreoSundae.jpg";
