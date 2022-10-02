@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/bakerDev/static/css/main.92a3a015.css",
-    "main.js": "/bakerDev/static/js/main.0cb489b4.js",
+    "main.js": "/bakerDev/static/js/main.2bc6e924.js",
     "static/media/merryOreoSundae.jpg": "/bakerDev/static/media/merryOreoSundae.0a3249c39c0f8785dc13.jpg",
+    "static/media/cake2.jpeg": "/bakerDev/static/media/cake2.b95f790b88f79d38deb0.jpeg",
     "static/media/merryPeachCobbler.jpg": "/bakerDev/static/media/merryPeachCobbler.6aea816a2bc7b999407b.jpg",
+    "static/media/cake5.jpeg": "/bakerDev/static/media/cake5.4597dc1961d86fc4fafb.jpeg",
+    "static/media/cake4.jpeg": "/bakerDev/static/media/cake4.8b10c08c8e382a029cd5.jpeg",
+    "static/media/cupcake1.jpeg": "/bakerDev/static/media/cupcake1.4e7ce816cdbe0012b3ca.jpeg",
+    "static/media/cake3.jpeg": "/bakerDev/static/media/cake3.6f88bd64f4e09059a62d.jpeg",
+    "static/media/cake1.jpeg": "/bakerDev/static/media/cake1.353333efbed352d74431.jpeg",
     "static/media/merryGnomeCookie.jpg": "/bakerDev/static/media/merryGnomeCookie.8f58698fe2e3924f5fb3.jpg",
     "static/media/merryGnomeFish.jpg": "/bakerDev/static/media/merryGnomeFish.6296ad73050f6ad2ff9c.jpg",
     "static/media/merryGnomePig.jpg": "/bakerDev/static/media/merryGnomePig.33a40c872917624adfbb.jpg",
-    "static/media/merryGnomeClose.jpg": "/bakerDev/static/media/merryGnomeClose.53481d29fed05be48f75.jpg",
     "static/media/merryGnomeGreen.jpg": "/bakerDev/static/media/merryGnomeGreen.66fedf78295b546bd3bb.jpg",
     "static/media/merryGnomeLogo.jpg": "/bakerDev/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/menu.jpeg": "/bakerDev/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
     "index.html": "/bakerDev/index.html",
     "main.92a3a015.css.map": "/bakerDev/static/css/main.92a3a015.css.map",
-    "main.0cb489b4.js.map": "/bakerDev/static/js/main.0cb489b4.js.map"
+    "main.2bc6e924.js.map": "/bakerDev/static/js/main.2bc6e924.js.map"
   },
   "entrypoints": [
     "static/css/main.92a3a015.css",
-    "static/js/main.0cb489b4.js"
+    "static/js/main.2bc6e924.js"
   ]
 }
