@@ -23,7 +23,7 @@ function Navibar() {
                         {/* <Nav.Link href="/fortressofthebear/#/store" >Store</Nav.Link> */}
                         <Nav.Link className="text" href="#/contact" >Order</Nav.Link>
                         {/* <Nav.Link href="/fortressofthebear/#/login" >Join</Nav.Link> */}
-                        <Nav.Link href="#" className="nav-link" tabindex="5" aria-disabled="true"> </Nav.Link>
+                        <Nav.Link href="#" className="nav-link" tabindex="4" aria-disabled="true"> </Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </div>
