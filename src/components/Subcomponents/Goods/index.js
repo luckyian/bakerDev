@@ -13,11 +13,14 @@ function Goods() {
     return (
         <Card className="aboutBack">
         <Card.Body className="text">
-          <Card.Title className="tourTitle">Merry Goods</Card.Title>
+        <p className="tourWords">
+          <h1>Cakes</h1>
           <div >
             <Card.Img src={frontpage} alt="TheGoods"></Card.Img>
           </div>
+          </p>
           <div>
+          
          <p className="tourWords">
 
            {/* <h3>TBD</h3> */}
