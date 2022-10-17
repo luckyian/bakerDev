@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bakerDev/static/css/main.92a3a015.css",
-    "main.js": "/bakerDev/static/js/main.59bc02f4.js",
+    "main.css": "/bakerDev/static/css/main.879e33c1.css",
+    "main.js": "/bakerDev/static/js/main.1552663a.js",
     "static/media/merryOreoSundae.jpg": "/bakerDev/static/media/merryOreoSundae.0a3249c39c0f8785dc13.jpg",
     "static/media/cake2.jpeg": "/bakerDev/static/media/cake2.b95f790b88f79d38deb0.jpeg",
     "static/media/merryPeachCobbler.jpg": "/bakerDev/static/media/merryPeachCobbler.6aea816a2bc7b999407b.jpg",
@@ -16,11 +16,11 @@
     "static/media/merryGnomeLogo.jpg": "/bakerDev/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/menu.jpeg": "/bakerDev/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
     "index.html": "/bakerDev/index.html",
-    "main.92a3a015.css.map": "/bakerDev/static/css/main.92a3a015.css.map",
-    "main.59bc02f4.js.map": "/bakerDev/static/js/main.59bc02f4.js.map"
+    "main.879e33c1.css.map": "/bakerDev/static/css/main.879e33c1.css.map",
+    "main.1552663a.js.map": "/bakerDev/static/js/main.1552663a.js.map"
   },
   "entrypoints": [
-    "static/css/main.92a3a015.css",
-    "static/js/main.59bc02f4.js"
+    "static/css/main.879e33c1.css",
+    "static/js/main.1552663a.js"
   ]
 }
