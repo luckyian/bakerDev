@@ -14,7 +14,7 @@ function UniqueDisplay() {
             <Card.Body>
                 
                 <div >
-                    <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img>
+                    
                 </div>
             </Card.Body>
         </Card>
