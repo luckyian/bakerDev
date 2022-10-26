@@ -36,10 +36,14 @@
 
   .cakes{
     text-align: center;
+    font-family: 'Carattere', bold;
+  font-size: 75px;
 }
 
 .cupcakes{
   text-align: center;
+  font-family: 'Carattere', bold;
+  font-size: 75px;
 }
   .fontSize{
     font-size:20px;
