@@ -1,7 +1,7 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style.css";
-import Logo from "../components/Subcomponents/Logo";
+// import Logo from "../components/Subcomponents/Logo";
 import Card from 'react-bootstrap/Card';
 import Menu from '../components/Subcomponents/Menu';
 

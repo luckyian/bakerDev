@@ -14,6 +14,7 @@ nav.navbar.navbar-default {
 
 .text{
   color: #00050d !important;
-  font-family: 'Carattere', bold;
-  font-size: 25px;
+  font-family: 'Carattere';
+  font-weight: 600;
+  font-size: 35px;
 }
