@@ -9,7 +9,7 @@ function Navibar() {
     return (
         <Navbar expand="md" className="navibar text" variant="dark" sticky="top">
             
-            <div className="col-md-8">
+            <div className="col-md-6">
                 <Navbar.Brand className="text" href="#"  >Merry Little Baker</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
                     data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
