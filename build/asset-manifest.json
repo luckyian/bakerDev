@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bakerDev/static/css/main.bbe2a011.css",
-    "main.js": "/bakerDev/static/js/main.835452bd.js",
+    "main.js": "/bakerDev/static/js/main.a23e4a96.js",
     "static/media/merryOreoSundae.jpg": "/bakerDev/static/media/merryOreoSundae.0a3249c39c0f8785dc13.jpg",
     "static/media/cake2.jpeg": "/bakerDev/static/media/cake2.b95f790b88f79d38deb0.jpeg",
     "static/media/merryPeachCobbler.jpg": "/bakerDev/static/media/merryPeachCobbler.6aea816a2bc7b999407b.jpg",
@@ -17,10 +17,10 @@
     "static/media/menu.jpeg": "/bakerDev/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
     "index.html": "/bakerDev/index.html",
     "main.bbe2a011.css.map": "/bakerDev/static/css/main.bbe2a011.css.map",
-    "main.835452bd.js.map": "/bakerDev/static/js/main.835452bd.js.map"
+    "main.a23e4a96.js.map": "/bakerDev/static/js/main.a23e4a96.js.map"
   },
   "entrypoints": [
     "static/css/main.bbe2a011.css",
-    "static/js/main.835452bd.js"
+    "static/js/main.a23e4a96.js"
   ]
 }
