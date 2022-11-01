@@ -3,10 +3,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import example1 from "./cupcake1.jpeg";
-import example2 from "./merryGnomeCookie.jpg";
-import example3 from "./merryGnomeFish.jpg";
-import example4 from "./merryOreoSundae.jpg";
-import example5 from "./merryPeachCobbler.jpg";
+import example2 from "./cupcake2.jpg";
+import example3 from "./cupcake3.jpg";
+import example4 from "./cupcake4.jpg";
+import example5 from "./cupcake5.jpg";
 
 function Cupcakes() {
 
