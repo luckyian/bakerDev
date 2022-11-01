@@ -9,13 +9,13 @@ function Navibar() {
     return (
         <Navbar expand="md" className="navibar text" variant="dark" sticky="top">
             
-            <div className="col-md-6">
+            <div className="col-md-7">
                 <Navbar.Brand className="text" href="#"  >Merry Little Baker</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
                     data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                     aria-label="Toggle navigation" />
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 float-right">
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav >
                         <Nav.Link className="text" href="#/index" >Home</Nav.Link>
