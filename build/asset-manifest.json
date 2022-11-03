@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/bakerDev/static/css/main.bbe2a011.css",
-    "main.js": "/bakerDev/static/js/main.a23e4a96.js",
-    "static/media/merryOreoSundae.jpg": "/bakerDev/static/media/merryOreoSundae.0a3249c39c0f8785dc13.jpg",
+    "main.css": "/bakerDev/static/css/main.1b4ce123.css",
+    "main.js": "/bakerDev/static/js/main.c3c4a1aa.js",
     "static/media/cake2.jpeg": "/bakerDev/static/media/cake2.b95f790b88f79d38deb0.jpeg",
-    "static/media/merryPeachCobbler.jpg": "/bakerDev/static/media/merryPeachCobbler.6aea816a2bc7b999407b.jpg",
+    "static/media/cupcake2.jpeg": "/bakerDev/static/media/cupcake2.482e1b70916c00dd9781.jpeg",
+    "static/media/cupcake1.jpeg": "/bakerDev/static/media/cupcake1.d8b5d467c65b4a378ad2.jpeg",
     "static/media/cake5.jpeg": "/bakerDev/static/media/cake5.4597dc1961d86fc4fafb.jpeg",
     "static/media/cake4.jpeg": "/bakerDev/static/media/cake4.8b10c08c8e382a029cd5.jpeg",
-    "static/media/cupcake1.jpeg": "/bakerDev/static/media/cupcake1.4e7ce816cdbe0012b3ca.jpeg",
+    "static/media/cupcake6.jpeg": "/bakerDev/static/media/cupcake6.587bb7fb47fec1e6533f.jpeg",
+    "static/media/cupcake5.jpeg": "/bakerDev/static/media/cupcake5.7d7fc8a90ef043c81fd7.jpeg",
     "static/media/cake3.jpeg": "/bakerDev/static/media/cake3.6f88bd64f4e09059a62d.jpeg",
     "static/media/cake1.jpeg": "/bakerDev/static/media/cake1.353333efbed352d74431.jpeg",
-    "static/media/merryGnomeCookie.jpg": "/bakerDev/static/media/merryGnomeCookie.8f58698fe2e3924f5fb3.jpg",
-    "static/media/merryGnomeFish.jpg": "/bakerDev/static/media/merryGnomeFish.6296ad73050f6ad2ff9c.jpg",
+    "static/media/cupcake7.jpeg": "/bakerDev/static/media/cupcake7.eab5cd037c55b8d029ed.jpeg",
+    "static/media/cupcake4.jpeg": "/bakerDev/static/media/cupcake4.beb9cbd44509db29e6f1.jpeg",
+    "static/media/cupcake9.jpeg": "/bakerDev/static/media/cupcake9.9b42762d9e3d271784f8.jpeg",
+    "static/media/cupcake12.jpeg": "/bakerDev/static/media/cupcake12.a58234ca36cb129c3162.jpeg",
+    "static/media/cupcake3.jpeg": "/bakerDev/static/media/cupcake3.909357c18c79f870fde0.jpeg",
     "static/media/merryGnomeClose.jpg": "/bakerDev/static/media/merryGnomeClose.53481d29fed05be48f75.jpg",
+    "static/media/cupcake13.jpeg": "/bakerDev/static/media/cupcake13.2f6179da76ae607267ea.jpeg",
+    "static/media/cupcake11.jpeg": "/bakerDev/static/media/cupcake11.37339652198da4f80e2f.jpeg",
     "static/media/merryGnomeLogo.jpg": "/bakerDev/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/menu.jpeg": "/bakerDev/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
+    "static/media/cupcake10.jpeg": "/bakerDev/static/media/cupcake10.e112373e8ad12e521883.jpeg",
+    "static/media/cupcake8.jpeg": "/bakerDev/static/media/cupcake8.80e291cd083d2890b7cf.jpeg",
     "index.html": "/bakerDev/index.html",
-    "main.bbe2a011.css.map": "/bakerDev/static/css/main.bbe2a011.css.map",
-    "main.a23e4a96.js.map": "/bakerDev/static/js/main.a23e4a96.js.map"
+    "main.1b4ce123.css.map": "/bakerDev/static/css/main.1b4ce123.css.map",
+    "main.c3c4a1aa.js.map": "/bakerDev/static/js/main.c3c4a1aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbe2a011.css",
-    "static/js/main.a23e4a96.js"
+    "static/css/main.1b4ce123.css",
+    "static/js/main.c3c4a1aa.js"
   ]
 }
